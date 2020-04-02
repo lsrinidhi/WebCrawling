@@ -1,7 +1,8 @@
-# WebCrawling
 This repository describes the steps used to crawl through Wikipedia page - Super Bowl.
 
-Your Python notebook named WebCrawler.ipynb that implements my web crawler. I'm using Markdown cells to write descriptions about how the notebook is arranged / what the code is doing along with comments in the code itself. 
+I'm using Python and BeautifulSoup package to crawl through Wikipedia.
+
+My Python notebook named WebCrawler.ipynb that implements my web crawler. I'm using Markdown cells to write descriptions about how the notebook is arranged / what the code is doing along with comments in the code itself. 
 
 OUTCOME:
 An accompanying CSV file named crawl.csv that contains 100 unique fully-specified (not relative) webpage URL targets from the same web domain.  It should have the following header:
